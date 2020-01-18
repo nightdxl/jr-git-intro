@@ -1,3 +1,3 @@
-/* second.md */
+/* 2nd.md or second.md */
 ---------------
 some more content for the 2nd MD...
