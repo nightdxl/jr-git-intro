@@ -1,3 +1,0 @@
-/* third.md */
---------------
-more and more content for the 3rd MD...
